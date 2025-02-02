@@ -15,6 +15,15 @@ To run this project, you'll need to have Python 3.x installed on your system alo
 - **Tkinter** (for GUI)
 - **Python Imaging Library (PIL)** or **Pillow** (for handling images)
 
+## Screenshots
+
+![Text](Login.png)
+
+![Text](LoginPage.png)
+
+![Text](Functions.png)
+
+
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests for bug fixes, improvements, or additional features.
 
